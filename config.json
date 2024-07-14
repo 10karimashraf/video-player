@@ -9,5 +9,9 @@
       "name": "Peaky Blinders Season 1 Eps.2",
       "fileType":"m3u8",
       "streamLink": "https://e15vvvvvenbmopgfxz443fdgfgjdfnjknvjnireiurevkfefs.liiivideo.com/hls2/02/00093/ftnk1b937hcv_h/index-v1-a1.m3u8?t=2dIZXq0HL5cqu7pf9yb_-5TPO3iN2QbL5Wzw9MtS418&s=1720869027&e=43200&f=465832&i=197.49&sp=0"
+    },    {
+      "name": "test",
+      "fileType":"m3u8",
+      "streamLink": "https://u4qdp2879tvarzswckbxjf.cdnministry.net:8443/hls/jpe9zodoh.m3u8?s=54oyr-qNwSuj86NuCQ6ncQ&e=1721004078"
     }
   ]
