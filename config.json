@@ -4,5 +4,9 @@
       "name": "Hereditary",
       "fileType":"m3u8",
       "streamLink": "https://s1.egybestvid.com/hls2/01/00000/j2n967buxnye_n/index-v1-a1.m3u8?t=fwwgLfhx5uFdXpmFXXxFSaHVFEwggJZZm1FLtxulZx4&s=1727870980&e=86400&f=2328&i=0.3&sp=0"
+    },{
+        "name": "Test",
+        "fileType":"mp4",
+        "streamLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ]
