@@ -1,25 +1,24 @@
 [
-
-  {
-    "name": "Hereditary",
-    "fileType":"m3u8",
-    "streamLink": "https://ej2jjjjjjjjjjjknvjnireiurevkfefs.liiivideo.com/hls2/02/00101/yy8upe5hltwg_n/index-v1-a1.m3u8?t=T6VwH_f1lSlkZKwPXm43uiIDRKdYTfmFPAHmWeL-xjg&s=1727872454&e=43200&f=506574&i=0.0&sp=0"
-  },{
-      "name": "Test",
-      "fileType":"mp4",
-      "streamLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-  },{
-      "name": "Don't come home ep.1",
+      {
+        "name": "Hereditary",
+        "fileType":"m3u8",
+        "streamLink": "https://ej2jjjjjjjjjjjknvjnireiurevkfefs.liiivideo.com/hls2/02/00101/yy8upe5hltwg_n/index-v1-a1.m3u8?t=T6VwH_f1lSlkZKwPXm43uiIDRKdYTfmFPAHmWeL-xjg&s=1727872454&e=43200&f=506574&i=0.0&sp=0"
+      },{
+          "name": "Don't come home ep.1",
+          "fileType":"m3u8",
+          "streamLink":"https://hhpu858ynx60.pradoi.com/hls2/01/05425/j4v2nb03z07m_n/index-v1-a1.m3u8?t=N-XwWrRR5hMJIwc0ohKJDdkhDAOYl5dci_1oApIk-Rc&s=1731537089&e=129600&f=27126288&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8452"
+      },{
+          "name": "Don't come home ep.2",
+          "fileType":"m3u8",
+          "streamLink":"https://n94cju2g34sg.pradoi.com/hls2/01/05425/el4vcv75mz3s_n/index-v1-a1.m3u8?t=z3SPl6PmF8jy7pXjOubQJKD6FmqNVzIir0D39MryyRk&s=1731617470&e=129600&f=27126750&srv=xqne5dhfp9v7&i=0.0&sp=500&p1=xqne5dhfp9v7&p2=xqne5dhfp9v7&asn=8452"
+      },{
+        "name": "Don't come ep.3",
+        "fileType":"m3u8",
+        "streamLink":"https://midnetps48.guardstorage.net/hls_3/MJV23bQjqzXilCweXwJSdBHQRQTjq99hsJwY6-VF8wPYaiN7Qeqd5m_XPvCJwzsEO8yvZVpmFYVLX54uMv-5IQ/master.m3u8?sig=OVuAunQEHNpyLQbNCTywyQ&expires=1734028228"
+    },{
+      "name": "Don't come ep.4",
       "fileType":"m3u8",
-      "streamLink":"https://hhpu858ynx60.pradoi.com/hls2/01/05425/j4v2nb03z07m_n/index-v1-a1.m3u8?t=N-XwWrRR5hMJIwc0ohKJDdkhDAOYl5dci_1oApIk-Rc&s=1731537089&e=129600&f=27126288&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8452"
-  },{
-      "name": "Don't come home ep.2",
-      "fileType":"m3u8",
-      "streamLink":"https://n94cju2g34sg.pradoi.com/hls2/01/05425/el4vcv75mz3s_n/index-v1-a1.m3u8?t=z3SPl6PmF8jy7pXjOubQJKD6FmqNVzIir0D39MryyRk&s=1731617470&e=129600&f=27126750&srv=xqne5dhfp9v7&i=0.0&sp=500&p1=xqne5dhfp9v7&p2=xqne5dhfp9v7&asn=8452"
+      "streamLink":"https://c66afocw1c.guardstorage.net/hls_3/pWP4i_dETAFC3lh6IsvkC2xy8WNi0RAwv9KFYlsvMm4xN-WSnQhuBoLSiOwrwzlyWGQvnEwlENVL0fDChJkTfOSVdyxByT1h5YOyO9srvU1eibU4b6J1TQfvXa4wF4w_3xFeNG-L2ZoiXRJgUDH29re1Jqsnq4sBP66XmH_tWyr6k6TWpGMZSSe_lG1YAlCaCDjQ2dPWMX5VlNaMG6CZWQ/master.m3u8?sig=_J3giGvjoJK_tQjBozDThA&expires=1734028342"
   }
-  ,{
-      "name": "Don't come home ep.3",
-      "fileType":"m3u8",
-      "streamLink":"https://cuyyro04xrqrh.pradoi.com/hls2/01/05425/eu4h3chxoydn_n/index-v1-a1.m3u8?t=6IZZQBR6-AXokfiOX1JSeqy_iYsMt6pE0YanQoEa7c0&s=1731617574&e=129600&f=27127052&srv=xzshml0e7mx&i=0.0&sp=500&p1=xzshml0e7mx&p2=xzshml0e7mx&asn=8452"
-  }
-]
+  ]
+  
